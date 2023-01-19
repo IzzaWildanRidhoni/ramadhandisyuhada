@@ -1,60 +1,49 @@
 ---
-date: 2022-08-28T17:00:00.000+00:00
-title: Pams English Class For Beginner
-slug: Pams English Class For Beginner
+date: 2023-01-18T17:00:00+00:00
+title: TPA Konsisten Pendidikan Anak Masjid Syuhada
+slug: TPA Konsisten Pendidikan Anak Masjid Syuhada
 tags:
-  - bahasa inggris
-  - inggris
+- tpa
+- tpa konsisten
+- pams
 categories:
-  - kelas
-linkdaftar: https://bit.ly/DaftarkelasPams3
-mentor: Ustadzah Dwi Rohmatin
-pendaftaran: 24 - 30 Agustus 2022
-pelaksanaan: ' 31 Agustus 2022 - selesai'
-biaya: '84000'
-berapapertemuan: '15'
-thumbnail: https://drive.google.com/uc?export=view&id=11uF_vbSO9kLW7oQs8qe91VcuU45i_K7L
-gambar: https://drive.google.com/uc?export=view&id=11uF_vbSO9kLW7oQs8qe91VcuU45i_K7L
-materi: bahasa inggris
+- kelas
+linkdaftar: http://tiny.cc/DaftarkonsistenTpa
+mentor: "-"
+pendaftaran: 10 - 21 Januari 2023
+pelaksanaan: 24 Januari 2023
+biaya: "99000"
+berapapertemuan: "12"
+thumbnail: https://i.ibb.co/HrzRv32/Snapinsta-app-1080-324700190-674110454458050-1136089955478052369-n.jpg
+gambar: https://i.ibb.co/HrzRv32/Snapinsta-app-1080-324700190-674110454458050-1136089955478052369-n.jpg
+materi: tpa
+
 ---
-
+TPA Konsisten Pendidikan Anak Masjid Syuhada  
+  
 Bismillahirohmanirohim,  
-Assalamualaikum Warahmatullahi Wabarakatuh
-
-“anak cerdas adalah anak-anak yang belajar di Pams bimbel”
-
-Pendidikan Anak Masjid Syuhada (PAMS) membuka kesempatan untuk belajar bahasa Inggris untuk anak-anak
-
-Insya Allah nanti akan belajar bersama :
-
-Bersama Ustadzah Dwi Rohmatin
-
-📖 Pembelajaraan : 31 Agustus 2022 - selesai  
-⏰ 19.00 - 20.00 WIB  
-📱 Via Zoom meting/google meet  
-Pelaksanaan Setiap Hari Rabu, Kamis, Jumat, Sabtu dan Ahad
-
-➡️ Infaq Pendidikan kelas Beginner: 84k (15x Pertemuan)  
-➡️ Limited Edition hanya 50 Peserta  
-Daftar sekarang sebelum kehabisan!
-
+Assalamualaikum Warahmatullahi Wabarakatuh  
+  
+Pendidikan Anak Masjid Syuhada (PAMS) membuka kesempatan untuk belajar mengaji Al- Quran dengan seru dan menyenangkan di alam (Taman Hayati Masjid Syuhada)  
+  
+⏳ Pendaftaran : 10 Januari 2023 - 21 Januari 2023  
+📖 Pembelajaran: 24 Januari 2023 - selesai (12x pertemuan)  
+📚 Jadwal belajar: Selasa, Rabu dan Kamis  
+⏰ 16.10 - 17.10 WIB  
+🕌 Tempat: Taman Hayati Masjid Syuhada Kota Baru  
+Link alamat : [https://maps.app.goo.gl/HUuwp8JrGxna9QF36](https://maps.app.goo.gl/HUuwp8JrGxna9QF36 "https://maps.app.goo.gl/HUuwp8JrGxna9QF36")  
+  
+➡️ Infaq Pendidikan: 99k  
+➡️ Limited Edition hanya 30 Peserta  
+Daftar sekarang sebelum kehabisan!  
+  
 📒 LINK PENDAFTARAN:  
-[https://bit.ly/DaftarkelasPams3](https://bit.ly/DaftarkelasPams3 'https://bit.ly/DaftarkelasPams3')
-
-WA: +6285868158702 (Admin Pams)
-
+[http://tiny.cc/DaftarkonsistenTpa](https://maps.app.goo.gl/HUuwp8JrGxna9QF36 "https://maps.app.goo.gl/HUuwp8JrGxna9QF36")  
+  
 💸Pembayaran via transfer  
 Bsi : a.n TPQ Syuhada  
-7199 4804 34
-
+7199 4804 34  
+  
 Konfirmasi dan kirim bukti pembayaran  
-wa.me/+6285868158702 (Admin Pams)
-
-====================  
-𝐒𝐎𝐂𝐈𝐀𝐋 𝐌𝐄𝐃𝐈𝐀 𝐏𝐀𝐌𝐒
-
-Instagram: pamssyuhada  
-Facebook: Pams Syuhada  
-Youtube: Pendidikan Anak-Anak Masjid Syuhada  
-Twitter: PamsSyuhada  
-Email: pamsyogyakart@gmail.com
+wa.me/+6285868158702 (Admin Pams) atau  
+\+6282132375350 (Tria)
