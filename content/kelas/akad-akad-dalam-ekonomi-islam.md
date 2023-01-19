@@ -11,7 +11,7 @@ categories:
 linkdaftar: http://tiny.cc/DaftarkonsistenTpa
 mentor: "-"
 pendaftaran: 10 - 21 Januari 2023
-pelaksanaan: '24 Januari 2023 - selesai '
+pelaksanaan: 24 Januari 2023
 biaya: "99000"
 berapapertemuan: "12"
 thumbnail: https://i.ibb.co/HrzRv32/Snapinsta-app-1080-324700190-674110454458050-1136089955478052369-n.jpg
