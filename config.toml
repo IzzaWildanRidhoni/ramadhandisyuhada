@@ -1,5 +1,5 @@
 title = "Ramadhan Di Syuhada"
-baseurl = "http://localhost:1313/"
+baseurl = "https://ramadhandisyuhada.netlify.app/"
 
 # Agar front-matter pakai format YAML
 MetaDataFormat = "yaml"
@@ -13,7 +13,7 @@ themesDir = "themes"
 theme = "cdmstheme"
 
 # Shortname disqus, silahkan sesuaikan
-DisqusShortname = "Cdms Syuhada"
+DisqusShortname = "Panram 1444H"
 
 # Untuk Google Analytic, silahkan sesuikan
 googleAnalytics = "UA-80517197-1" 
